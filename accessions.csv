@@ -1,0 +1,45 @@
+Accessions,Status,Strain,Acronym,Species
+GCA_009831785.1,Free-living bacterium - pathogen,Apa8A1,SsApa8A1,Serratia symbiotica
+GCA_000821185.1,Free-living bacterium - pathogen,CWBI-2.3T,SsAf2.3,Serratia symbiotica
+GCA_009831665.1,Free-living bacterium - pathogen,24.1,SsAf24.1,Serratia symbiotica
+GCA_008370165.1,Mutualist (facultative),IS,SsApIS,Serratia symbiotica
+GCA_000186485.2,Mutualist (facultative),Tucson,SsApTucson,Serratia symbiotica
+GCA_900002265.1,Mutualist (co-obligate),SCt-VLC,SsCt,Serratia symbiotica
+GCA_900380265.1,Mutualist (co-obligate),SeCistrobi,SsCs,Serratia symbiotica
+GCA_000238975.1,Mutualist (co-obligate),Cc,SsCc,Serratia symbiotica
+GCA_900155695.1,Mutualist (co-obligate),SCifornacula,SsCf,Serratia symbiotica
+GCA_900016775.1,Mutualist (co-obligate),STs,SsTs,Serratia symbiotica
+GCA_011754105.1,Mutualist (co-obligate),PERIS-14S,SsPa14S,Serratia symbiotica
+GCA_011754115.1,Mutualist,AURT-53S,SsAu53S,Serratia symbiotica
+GCA_011754195.1,Mutualist (co-obligate),PLYR-94S,SsPl94S,Serratia symbiotica
+GCA_011754235.1 ,Mutualist,MCAR-56S,SsMc56S,Serratia symbiotica
+GCA_011754095.1,Mutualist (co-obligate),PCOLA-89S,SsPa89S,Serratia symbiotica
+GCA_000513215.1,Insect-opportunistic pathogen,Db11,SmDb11,Serratia symbiotica
+GCA_000828775.1,Human-opportunistic pathogen,SM39,SmSM39,Serratia symbiotica
+GCA_001280365.1,Plant growth promoting rhizobacterium,RSC-14,SmRSC-14,Serratia symbiotica
+GCA_001007555.1,Plant growth promoting rhizobacterium,90-166,Sm90-166,Serratia symbiotica
+GCA_001294565.1,Human-opportunistic pathogen,UNAM836,SmUNAM836,Serratia symbiotica
+GCA_002915445.1,Insect-opportunistic pathogen,KZ11,SmKZ11,Serratia symbiotica
+GCA_000695995.1,Plant growth promoting rhizobacterium,FS14,SFS14,Serratia symbiotica
+GCA_000330865.1,fungus garden of the leaf-cutter ant Atta colombica,FGI94,SFG194,Serratia symbiotica
+GCA_000018085.1,Putative plant growth promoting rhizobacterium,568,Sp568,Serratia symbiotica
+GCA_000738675.1,Mutualist gut-associate,DSM 21420,SnDSM21420,Serratia symbiotica
+GCA_001006005.1,Plant growth promoting rhizobacterium,DSM 4576,SfDSM4576,Serratia symbiotica
+GCA_001514455.1,Plant growth promoting rhizobacterium,GS2,SfGS2,Serratia symbiotica
+GCA_900187015.1,Putative plant growth promoting rhizobacterium,NCTC12148,SfNCTC12148,Serratia symbiotica
+GCA_004684265.1,Plant growth promoting rhizobacterium,PKL:12,SqPKL12,Serratia symbiotica
+GCA_000214805.1,Plant growth promoting rhizobacterium,AS13,SpAS13,Serratia symbiotica
+GCA_000214235.1,Plant growth promoting rhizobacterium,AS9,SpAS9,Serratia symbiotica
+GCA_001663115.1,Plant growth promoting rhizobacterium,3Rp8,Sp3Rp8,Serratia symbiotica
+GCA_001663135.1,Plant growth promoting rhizobacterium,3Re4-18,Sp3Re4-18,Serratia symbiotica
+GCA_000261045.2,Plant growth promoting rhizobacterium,PRI-2C,SpPRI-2C,Serratia symbiotica
+GCA_000422085.1,Unknown,ATCC27592,SlATCC27592,Serratia symbiotica
+GCA_000975245.1,Human-Opportunistic Pathogen. ,HUMV-21,SlHUMV-21,Serratia symbiotica
+GCA_001559135.2,Human-Opportunistic Pathogen. ,FDAARGOS_125,SlFDAARGOS_125,Serratia symbiotica
+GCA_001572725.1,Human-Opportunistic Pathogen. ,1122,Sr1122,Serratia symbiotica
+GCA_900186025.1,Plant growth promoting bacterium,BXF1,SgBXF1,Serratia symbiotica
+GCA_003627195.1 ,Insect pathogen,K12,EcK12,Serratia symbiotica
+GCA_000382505.1,Human-Opportunistic Pathogen,G1670E,YpG1670E,Serratia symbiotica
+GCA_000517425.1,Human-Opportunistic Pathogen,HS1,SpHS1,Serratia symbiotica
+GCA_003049785.1,Plant pathogen,DSM 18020,DdDSM18020,Serratia symbiotica
+GCA_002803865.1,Plant pathogen,E-2,EaE-2,Serratia symbiotica
